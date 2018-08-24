@@ -1,4 +1,4 @@
-# Assets
+# Fields
 
 ## General
 Allows you to include dynamic fields like current year to your contents.
