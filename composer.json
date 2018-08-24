@@ -1,0 +1,17 @@
+{
+    "name": "xescode/fields",
+    "version": "1.0.0",
+    "type": "pagekit-extension",
+    "title": "Fields",
+    "description": "Display dynamic fields (current year, current date, server information...)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xesc",
+            "homepage": "https://"
+        }
+    ],
+    "extra": {
+        "icon": "icon.svg"
+    }
+}
