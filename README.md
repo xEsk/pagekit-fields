@@ -9,7 +9,7 @@ Please install this extension via Pagekit's marketplace.
 ## Basic usage
 To include a dynamic field use the Pagekit plugin content anotation:
 
-``(fields){"id":"action"}``
+``(fields){"id":"__field__"}``
 
 ## Available fields
 
